@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: s9s4oxjpl-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/s9s4oxjpl-python-gitops
